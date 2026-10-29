@@ -10,4 +10,4 @@ b = true
 a = ['a', 'b']
 o = {color: 'red', shape: 'rectangle'}
 
-console.log(o)
+console.log(o) 
